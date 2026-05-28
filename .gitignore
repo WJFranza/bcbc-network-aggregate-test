@@ -1,0 +1,11 @@
+# Raw outputs
+results/*
+!results/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# Sanitized examples can be committed intentionally
+*.tmp
+*.swp
+dist/
+*.zip
