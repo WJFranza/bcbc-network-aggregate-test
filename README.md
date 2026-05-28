@@ -78,6 +78,16 @@ bcbc-network-aggregate-test/
     package-results.sh
 ```
 
+
+## Infrastructure Support
+
+Special thank you to **ClouDNS** for supporting reliable DNS infrastructure for BCBC projects.
+
+
+<img width="96" height="48" alt="cloudns-logo-crop" src="https://github.com/user-attachments/assets/3d379a71-292a-4dec-9703-635c809c22e5" />
+
+---
+
 ## Credits
 
 Ideas, design, and concepts: William J. Franza, assisted by ChatGPT.
