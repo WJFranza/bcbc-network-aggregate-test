@@ -1,0 +1,7 @@
+# Local/raw test logs may contain private hostnames/IPs
+results/
+*.log
+
+# Temporary files
+*.tmp
+*.bak
